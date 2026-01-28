@@ -23,8 +23,6 @@
         </td>
     </tr>
     <tr>
-    </tr>
-    <tr>
         <td>
             <details>
             <summary>(5) hall magnatic</summary>
