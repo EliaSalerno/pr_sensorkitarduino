@@ -39,3 +39,30 @@ Interruttore che reagisce alla presenza di un campo magnetico, accendendosi e sp
 	</tr>
 </table>
 </summary>
+
+## CODICE UTILE
+
+```
+int led = 13; //led integrato su arduino
+int sensor = 3;
+int val;
+
+void setup()
+{
+	pinMode(led, OUTPUT);
+	pinMode(sensor, INPUT);
+}
+
+void loop()
+{
+	val = digitalRead(sensor); //Read the sensor
+	if(val == LOW) //when magnetic field is detected, turn led on
+	{
+		digitalWrite(led, HIGH);
+	}
+	else
+	{
+		digitalWrite(led, LOW);
+	}
+}
+```
