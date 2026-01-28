@@ -38,7 +38,7 @@ Interruttore che reagisce alla presenza di un campo magnetico, accendendosi e sp
 		</td>
 	</tr>
 </table>
-</summary>
+</details>
 
 ## CODICE UTILE
 
