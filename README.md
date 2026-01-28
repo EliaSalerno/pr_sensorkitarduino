@@ -75,6 +75,7 @@
         <td>
             <details>
             <summary>(14) joystick</summary>
+            <img src="./joystick/joystick.jpg" alt="joystick" width="200">
             </details>
         </td>
         <td>
