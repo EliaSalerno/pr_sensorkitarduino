@@ -9,19 +9,19 @@
         </td>
         <td>
             <details>
-            <summary>(2) ir receiver</summary>
+            <summary>(2) Ricevitore infrarossi</summary>
             <img src="./ir_receiver/irreceiver.jpg" alt="er receiver" width="200">
             </details>
         </td>
         <td>
             <details>
-            <summary>(3) ir emission</summary>
+            <summary>(3) Trasmettitore infrarossi</summary>
             <img src="./ir_emission/iremission.jpg" alt="ir emmission" width="200">
             </details>
         </td>
         <td>
             <details>
-            <summary>(4) heartbrat</summary>
+            <summary>(4) Sensore di battito cardiaco</summary>
             <img src="./heartbrat/heartbrat.jpg" alt="heartbrat" width="200">
             </details>
         </td>
