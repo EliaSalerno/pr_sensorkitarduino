@@ -32,8 +32,6 @@ void loop()
 }
 ```
 </td>
-<td width="100">
-</td>
 <td>
 
 <b>Schema di collegamento</b>
