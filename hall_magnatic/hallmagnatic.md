@@ -70,7 +70,5 @@ void loop()
 			</tr>
 		</table>
 	</td>
-	<td>
-</td>
 </tr>
 </table>
